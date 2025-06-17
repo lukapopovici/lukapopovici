@@ -1,7 +1,3 @@
-<div>
-  <em>
-    <p>I'm a computer engineering student with an interest in Web Development, Embedded C, Dedicated Systems, and the Internet of Things.</p>
-    <p>This is where I'll post my projects.</p>
-  </em>
-
-</div>
+write a github profile readme bio.<br>
+make it present in a professional way i'm a <strong>compeng student<strong> and </strong>corporate data engineer</strong> that's open for collabing on webprojects<br>
+don't use emojis or special formatting
